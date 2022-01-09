@@ -1,27 +1,14 @@
-{
-  "exportacion": [
+[
           {
-               "periodo":"anual",
-               "agno": 2020,
-               "mes": 1,
                "valor": 468141
           },
           {
-              "periodo":"anual",
-              "agno": 2020,
-              "mes": 2,
               "valor": 395955
           },
           {  
-              "periodo":"anual", 
-              "agno": 2020,
-              "mes": 3,
               "valor": 426334
           },
           {
-              "periodo":"anual",
-              "agno": 2020,
-              "mes": 4,
               "valor": 363528
           },
           {
@@ -31,46 +18,25 @@
               "valor": 363997
           },
           {
-              "periodo":"anual",
-              "agno": 2020,
-              "mes": 6,
-              "valor": 378953
+             "valor": 378953
           },
           {
-              "periodo":"anual",
-              "agno": 2020,
-              "mes": 7,
               "valor": 367131
           },
           {
-              "periodo":"anual",
-              "agno": 2020,
-              "mes": 8,
               "valor": 378179
           },
           {
-              "periodo":"anual",
-              "agno": 2020,
-              "mes": 9,
               "valor": 354786
           },
           {
-              "periodo":"anual",
-              "agno": 2020,
-              "mes": 10,
               "valor": 354094
           },
           {
-              "periodo":"anual",
-              "agno": 2020,
-              "mes": 11,
               "valor": 411217
           },
           {
-              "periodo":"anual",
-              "agno": 2020,
               "mes": 12,
               "valor": 404609
           }
               ]
-}
