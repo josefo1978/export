@@ -1,50 +1,64 @@
-[
-  {
-    "MES": 1,
-    "EXPORTACION": 468141
-  },
-  {
-    "MES": 2,
-    "EXPORTACION": 395955
-  },
-  {
-    "MES": 3,
-    "EXPORTACION": 426334
-  },
-  {
-    "MES": 4,
-    "EXPORTACION": 363528
-  },
-  {
-    "MES": 5,
-    "EXPORTACION": 363997
-  },
-  {
-    "MES": 6,
-    "EXPORTACION": 378953
-  },
-  {
-    "MES": 7,
-    "EXPORTACION": 367131
-  },
-  {
-    "MES": 8,
-    "EXPORTACION": 378179
-  },
-  {
-    "MES": 9,
-    "EXPORTACION": 354786
-  },
-  {
-    "MES": 10,
-    "EXPORTACION": 354094
-  },
-  {
-    "MES": 11,
-    "EXPORTACION": 411217
-  },
-  {
-    "MES": 12,
-    "EXPORTACION": 404609
-  }
-]
+{
+  "exportacion": [
+          {
+               "agno": 2020
+               "mes": 1,
+               "valor": 468141
+          },
+          {
+              "agno": 2020
+              "mes": 2,
+              "valor": 395955
+          },
+          {  
+              "agno": 2020
+              "mes": 3,
+              "valor": 426334
+          },
+          {
+              "agno": 2020
+              "mes": 4,
+              "valor": 363528
+          },
+          {
+              "agno": 2020
+              "mes": 5,
+              "valor": 363997
+          },
+          {
+              "agno": 2020
+              "mes": 6,
+              "valor": 378953
+          },
+          {
+              "agno": 2020
+              "mes": 7,
+              "valor": 367131
+          },
+          {
+              "agno": 2020
+              "mes": 8,
+              "valor": 378179
+          },
+          {
+              "agno": 2020
+              "mes": 9,
+              "valor": 354786
+          },
+          {
+              "agno": 2020
+              "mes": 10,
+              "valor": 354094
+          },
+          {
+              "agno": 2020
+              "mes": 11,
+              "valor": 411217
+          },
+          {
+              "agno": 2020
+              "mes": 12,
+              "valor": 404609
+          }
+              ]
+}
